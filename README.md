@@ -26,4 +26,6 @@ Conclusion:
 The project successfully identified key factors influencing sales.
 The final model provided accurate sales predictions, which can help Walmart optimize their inventory and sales strategies.
 
+https://github.com/Deepa01d/Walmart-Sales-Prediction.git
+
 
